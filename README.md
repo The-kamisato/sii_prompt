@@ -26,6 +26,9 @@
 3. 直接生成答案。
 
 ---
+现在请你回答：
+[问题]
+
 
 ### 示例 3: 逻辑学/谜题/密码学题
 **原问题**: There are three boxes labeled A, B, and C. One box contains a prize, and the other two are empty. The following statements are known:
